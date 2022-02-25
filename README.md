@@ -1,2 +1,2 @@
 # portfolio
-This is sample attemptb of a portfolio in the making.
+This is sample attempt of a portfolio in the making.
