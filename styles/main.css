@@ -1,6 +1,6 @@
-@import 'header.css';
-@import 'project.css';
-@import 'about.css';
+@import './header.css';
+@import './project.css';
+@import './about.css';
 
 * {
   margin: 0;
