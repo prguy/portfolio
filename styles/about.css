@@ -55,14 +55,14 @@
   display: flex;
 }
 
-.img-container {
+/* .img-container {
   width: 40%;
-}
+} */
 
 .img-container .img {
   width: 300px;
   height: 400px;
-  background-image: url(/img/pato.jpg);
+  /* background-image: url(/img/pato.jpg); */
   background-size: cover;
   background-position: center center;
   border-radius: 5px;
